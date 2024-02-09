@@ -4,7 +4,7 @@ A sleek and responsive front-end developer portfolio by Shahira Sadat.
 
 ## Live Demo
 
-[Math Magicians Netlify](https://63b813543282cd3d473ce766--verdant-griffin-6890d8.netlify.app/#/)
+[Portfolio Project SheCodes](https://65c5ebf87c4f107bb160ad67--illustrious-cupcake-f6a9e6.netlify.app/)
 
 ## Built With
 
